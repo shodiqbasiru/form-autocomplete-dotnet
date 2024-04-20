@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/home/shodiqbasiru/Documents/ngoding/C#/autocomplete-form/autocomplete-form/obj/Debug/net8.0/scopedcss/projectbundle/autocomplete-form.bundle.scp.css",
+      "PackagePath": "staticwebassets/autocomplete-form.bundle.scp.css"
+    },
+    {
+      "Id": "/home/shodiqbasiru/Documents/ngoding/C#/autocomplete-form/autocomplete-form/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/shodiqbasiru/Documents/ngoding/C#/autocomplete-form/autocomplete-form/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/shodiqbasiru/Documents/ngoding/C#/autocomplete-form/autocomplete-form/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/shodiqbasiru/Documents/ngoding/C#/autocomplete-form/autocomplete-form/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/shodiqbasiru/Documents/ngoding/C#/autocomplete-form/autocomplete-form/wwwroot/js/autocomplete.js",
+      "PackagePath": "staticwebassets/js/autocomplete.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.autocomplete-form.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.autocomplete-form.props",
+      "PackagePath": "build\\autocomplete-form.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.autocomplete-form.props",
+      "PackagePath": "buildMultiTargeting\\autocomplete-form.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.autocomplete-form.props",
+      "PackagePath": "buildTransitive\\autocomplete-form.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

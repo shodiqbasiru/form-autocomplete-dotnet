@@ -1,0 +1,32 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1 class="text-center fs-2 fw-bold">Autocomplete Character With Api</h1>
+
+<form class="w-50 mx-auto mt-3">
+    <div class="mb-3">
+        <label for="country" class="form-label">Negara</label>
+        <input type="text" class="form-control" id="country" name="country">
+    </div>
+    <div class="mb-3">
+        <label for="harbour" class="form-label">Pelabuhan</label>
+        <input type="text" class="form-control" id="harbour" name="harbour">
+    </div>
+
+    <div class="mb-3">
+        <label for="product" class="form-label">Barang</label>
+        <input type="text" class="form-control" id="product" name="product">
+        <textarea id="productData" class="form-control mt-3" rows="6"></textarea>
+    </div>
+    <div class="mb-3">
+        <label for="price" class="form-label">Harga</label>
+        <input type="number" class="form-control" oninput="" id="price" name="price">
+    </div>
+    <div class="mb-3">
+        <label for="custom-rates" class="form-label">Tarif Bea Cukai</label>
+        <input type="text" class="form-control" oninput="" id="custom-rates" name="custom-rates">
+        <input type="text" class="form-control mt-3" oninput="" id="result-custom-rates" name="result-custom-rates">
+    </div>
+
+</form>
